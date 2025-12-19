@@ -1,2 +1,2 @@
 # PTSD_Project
-- Unreal Version used: 5.7.0
+- Unreal Version used: 5.7.1
